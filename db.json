@@ -1,0 +1,95 @@
+{
+  "pizza-app": [
+    {
+      "id": "1",
+      "name": "mushroom",
+      "size": "s,m,l",
+      "price": 750,
+      "image": "https://img.freepik.com/premium-photo/pizza-with-mushroom-topping-white-background_434853-2237.jpg",
+      "toppings": [
+        "olives",
+        "corn capsicum"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://cdn.pixabay.com/photo/2024/03/15/16/25/pizza-8635314_640.jpg",
+      "type": "Vegetarian",
+      "price": 700,
+      "toppings": [
+        "Mushrooms",
+        "corn",
+        "Pineapple"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/id/645246532/photo/delicious-classic-italian-burning-pizza-with-sausages-pepper-jalapeno-sauce-and-cheese.jpg?s=612x612&w=0&k=20&c=-aeH0zUZIgFlFhEmuaT3aLYGhNTiow8YajjpSGRpn88=",
+      "type": "BBQ Chicken",
+      "size": "s,m,l",
+      "price": 800,
+      "toppings": [
+        "BBQ sauce",
+        "Chicken"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://www.bakerhaus.com/media/catalog/product/cache/c0918f0b9cd4e40462adcad3bbbf3e9d/4/3/435_chicken_mushroom_pizza_new.jpg",
+      "type": "Pepperoni",
+      "size": "s,m,l",
+      "price": 750,
+      "toppings": [
+        "Pepperoni",
+        "Onions",
+        "Olives"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://media.istockphoto.com/id/186295807/photo/chicken-tikka-pizza.jpg?s=612x612&w=0&k=20&c=gnF-DKlj1JCCAhzQ4fB8WEyJ_cUlgl1i-ZNsIuvZ54U=",
+      "type": "BBQ Chicken",
+      "size": "s,m,l",
+      "price": 850,
+      "toppings": [
+        "BBQ sauce",
+        "Chicken",
+        "Onions"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "jalapinos",
+      "size": "l",
+      "price": 1200,
+      "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/msborial/b3e34242-9c85-4e55-9bf3-ba70d0064de8.jpg",
+      "toppings": [
+        "cheese"
+      ]
+    },
+    {
+      "id": "12",
+      "name": " margarita cheese",
+      "size": "m",
+      "price": 1000,
+      "image": "https://media.istockphoto.com/id/1168754685/photo/pizza-margarita-with-cheese-top-view-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=psLRwd-hX9R-S_iYU-sihB4Jx2aUlUr26fkVrxGDfNg=",
+      "toppings": [
+        "margarita",
+        "cheese",
+        "sauce"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "mushroom",
+      "size": "l",
+      "price": 1200,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "toppings": [
+        "mushroom",
+        "olives",
+        "onions"
+      ]
+    }
+  ]
+}
